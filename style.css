@@ -203,10 +203,10 @@ p{
 }
 
 .product-section .product-cart{
-    width: 280px;
+    width: 300px;
     border: 1px solid #ebebeb;
     padding: 13px;
-    margin: 30px 40px;
+    margin: 30px 30px;
     border-radius: 25px;
     position: relative;
     box-shadow: 20px 20px 30px rgba(0,0,0,0.2);
